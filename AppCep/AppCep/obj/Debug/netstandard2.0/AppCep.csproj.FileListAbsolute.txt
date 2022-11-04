@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\AppCep.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\AppCep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\Desktop\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\Desktop\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\View\ConsultaCep.xaml.g.cs
+C:\Users\Usuario\Desktop\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\AppCep.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\AppCep.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\AppCep.csproj.CoreCompileInputs.cache
